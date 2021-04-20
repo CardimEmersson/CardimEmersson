@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-EmerssonCardim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersson-cardim/)](https://www.linkedin.com/in/emersson-cardim/) 
 [![Gmail Badge](https://img.shields.io/badge/-emerssonmota123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerssonmota123@gmail.com)](mailto:emerssonmota123@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CardimEmersson&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CardimEmersson&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

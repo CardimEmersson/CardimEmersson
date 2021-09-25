@@ -28,8 +28,3 @@ You can click the Preview link to take a look at your changes.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   
 </p>
-
-
-## Visualizações no perfil
-
-<img alingn="center" src="https://profile-counter.glitch.me/CardimEmersson/count.svg" />

@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-EmerssonCardim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersson-cardim/)](https://www.linkedin.com/in/emersson-cardim/) 
 [![Gmail Badge](https://img.shields.io/badge/-emerssonmota123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerssonmota123@gmail.com)](mailto:emerssonmota123@gmail.com)
 
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" height="200" />
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280" height="200" />
 
 <div>
   

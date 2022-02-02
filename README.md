@@ -7,15 +7,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@EmerssonCardim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EmerssonCardim)](https://twitter.com/EmerssonCardim) 
 [![Linkedin Badge](https://img.shields.io/badge/-EmerssonCardim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersson-cardim/)](https://www.linkedin.com/in/emersson-cardim/) 
 [![Gmail Badge](https://img.shields.io/badge/-emerssonmota123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerssonmota123@gmail.com)](mailto:emerssonmota123@gmail.com)
-
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280" height="200" />
-
-<div>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CardimEmersson&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CardimEmersson&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <br/>
 <br/>
